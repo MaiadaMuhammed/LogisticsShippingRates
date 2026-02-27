@@ -1,0 +1,6 @@
+-fix-revert
+nano bug-fix-revert
+theia@theia-maiadamahmed:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert e0231be Revert "Fix footer year from 2022 to 2023"
+  bug-fix-typo   b728514 Fix footer year from 2022 to 2023
+  main           b728514 [origin/main: ahead 1] Fix footer year from 2022 to 2023
